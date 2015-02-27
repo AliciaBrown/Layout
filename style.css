@@ -1,1 +1,17 @@
 @import url("//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css");
+
+#title {
+  float:right;
+}
+
+#sidebar {
+  float:right;
+}
+
+#main {
+  float:left;
+}
+
+#footer {
+  
+}
