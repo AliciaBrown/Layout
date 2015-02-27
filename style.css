@@ -1,17 +1,21 @@
 @import url("//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css");
 
 #title {
+  background-color:Coral;
   float:right;
 }
 
 #sidebar {
+  background-color:Cyan;
   float:right;
 }
 
 #main {
+  background-color:Crimson;
   float:left;
 }
 
 #footer {
+  background-color:DarkCyan;
   
 }
